@@ -106,7 +106,7 @@ public class CustomerReport extends JDialog {
     private String tln, tfn, tAfm, tphone;
     
     private String query;
-    private int current = 0;
+    // private int current = 0;
     private Statement stmt;
     private ResultSet rs;
     private Connection con;

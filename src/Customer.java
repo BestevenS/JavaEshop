@@ -313,13 +313,13 @@ public class Customer extends JDialog {
         }
     }
 
-    private void space2Form() {
-        tid.setText(null);
-        tfn.setText(null);
-        tln.setText(null);
-        tAfm.setText(null);
-        tphone.setText(null);
-    }
+    // private void space2Form() {
+    //     tid.setText(null);
+    //     tfn.setText(null);
+    //     tln.setText(null);
+    //     tAfm.setText(null);
+    //     tphone.setText(null);
+    // }
 
     private void form2DB() {
         try {
